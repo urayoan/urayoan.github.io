@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: "My first blog post"
+date: 2015-11-23
 ---
 
 ## A New Post
